@@ -7,6 +7,9 @@
    - membuat Objek (mendeklarasikan dan menginisialisasi Objek) dari Kelas yang telah didefinisikan
    - menggunakan atribut dari Objek untuk melakukan operasi
 
+**Setelah berhasil menjalankan dan memahami kode program pada File 1, silahkan melakukan percobaan yaitu:**
+Cut kode program yang digunakan untuk mendefinisikan Kelas dengan beberapa Atribut (mulai Class hingg End Class), kemudian Paste di bagian atas / luar dari definisi Module ModuleMendefinisikanKelasBerisiAtribut di dalam file yang sama, kemudian jalankan program! Apa yang terjadi? Jawabannya: **Meskipun Kelas berada di luar definisi Module namun tetap dapat diakses dari dalam Module**.
+
 **2. ModuleProsedurFungsiDanEnkapsulasiPadaKelas.vb**
    Modul ini berisi materi pembelajaran untuk
    - mendefinisikan Kelas yang memiliki Atribut, Prosedur, dan Fungsi
