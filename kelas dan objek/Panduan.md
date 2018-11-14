@@ -16,3 +16,14 @@ Cut kode program yang digunakan untuk mendefinisikan Kelas dengan beberapa Atrib
    - membuat Objek (mendeklarasikan dan menginisialisasi Objek) dari Kelas yang telah didefinisikan
    - menerapkan Enkapsulasi (mendeklarasikan variabel dengan modifier Private dan mengaksesnya melalui prosedur/fungsi dengan modifier Public)
    - memanggil prosedur/fungsi dari Objek untuk melakukan operasi
+
+**Setelah berhasil menjalankan dan memahami kode program pada File 2, silahkan melakukan percobaan yaitu:**
+Pada bagian setelah deklarasi dan inisialisasi Objek persegiEmpatA dan persegiEmpatB, tambahkan kode program berikut:
+```
+persegiEmpatA.panjang = 5
+persegiEmpatA.lebar = 3
+persegiEmpatB.panjang = 4
+persegiEmpatB.lebar = 4
+```
+Jalankan program! Apa yang terjadi?
+Jawabannya: **terjadi error dikarenakan variabel panjang dan lebar tidak dapat diakses dari luar kelas secara langsung dikarenakan memiliki modifier Private**.
