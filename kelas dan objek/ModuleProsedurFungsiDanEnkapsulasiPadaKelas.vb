@@ -65,10 +65,10 @@
         'Hasil perkalian kemudian disimpan di variabel luasPersegiEmpat.
         'Selanjutnya, menampilkan nilai variabel luasPersegiEmpat ke console.
         luasPersegiEmpat = persegiEmpatA.GetLuas()
-        Console.WriteLine("Luas persegiEmpatA" & luasPersegiEmpat)
+        Console.WriteLine("Luas persegiEmpatA = " & luasPersegiEmpat)
 
         luasPersegiEmpat = persegiEmpatB.GetLuas()
-        Console.WriteLine("Luas persegiEmpatB" & luasPersegiEmpat)
+        Console.WriteLine("Luas persegiEmpatB = " & luasPersegiEmpat)
 
         'Agar setelah console terbuka/tampil kemudian tidak langsung menutup.
         Console.ReadLine()
