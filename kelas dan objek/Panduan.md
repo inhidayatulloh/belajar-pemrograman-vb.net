@@ -27,3 +27,11 @@ persegiEmpatB.lebar = 4
 ```
 Jalankan program! Apa yang terjadi?
 Jawabannya: **terjadi error dikarenakan variabel panjang dan lebar tidak dapat diakses dari luar kelas secara langsung dikarenakan memiliki modifier Private**.
+
+**3. ModuleMendefinisikanKelasBerisiKonstructor.vb**
+   Modul ini berisi materi pembelajaran untuk
+   - mendefinisikan Kelas yang memiliki beberapa Atribut, Konstruktor, Prosedur, dan Fungsi
+   - membuat Objek (mendeklarasikan dan menginisialisasi Objek) dari Kelas yang telah didefinisikan
+      - melalui konstruktor tanpa parameter
+      - melalui konstruktor yang memiliki parameter
+   - menggunakan prosedur/fungsi dari Objek untuk melakukan operasi
