@@ -40,3 +40,7 @@ Jawabannya: **terjadi error dikarenakan variabel panjang dan lebar tidak dapat d
    Modul ini berisi materi pembelajaran untuk
    - mendefinisikan Kelas di luar Module
    - mengkonversi Double ke String dengan format dua angka di belakang koma
+
+**5. ModuleMengaksesKelasDiLuarModule.vb**
+   Modul ini berisi materi pembelajaran untuk mengakses Kelas dari luar Module. 
+   Kelas dan Module berada pada file .vb yang berbeda namun masih dalam satu projek yang sama.
