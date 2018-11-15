@@ -37,6 +37,7 @@
 
         'Memanggil fungsi GetKeliling dari objek lingkaranBesar untuk mendapatkan nilai keliling lingkaran.
         'Langsung menampilkan nilai keliling lingkaran tanpa menyimpannya terlebih dahulu ke dalam variabel.
+        'ToString("0.00") mengkonversi Double ke String dengan format dua angka di belakang koma.
         Console.WriteLine("Keliling lingkaranBesar= " & lingkaranBesar.GetKeliling().ToString("0.00"))
 
         'Memanggil fungsi GetLuas dari objek lingkaranBesar untuk mendapatkan nilai luas lingkaran.
