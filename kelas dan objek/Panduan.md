@@ -40,4 +40,3 @@ Jawabannya: **terjadi error dikarenakan variabel panjang dan lebar tidak dapat d
    Modul ini berisi materi pembelajaran untuk
    - mendefinisikan Kelas di luar Module
    - mengkonversi Double ke String dengan format dua angka di belakang koma
-   -
