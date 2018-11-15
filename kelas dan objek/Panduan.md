@@ -35,3 +35,9 @@ Jawabannya: **terjadi error dikarenakan variabel panjang dan lebar tidak dapat d
       - melalui konstruktor tanpa parameter
       - melalui konstruktor yang memiliki parameter
    - menggunakan prosedur/fungsi dari Objek untuk melakukan operasi
+
+**4. ClassLingkaranDiLuarModule.vb**
+   Modul ini berisi materi pembelajaran untuk
+   - mendefinisikan Kelas di luar Module
+   - mengkonversi Double ke String dengan format dua angka di belakang koma
+   -
